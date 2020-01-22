@@ -1,2 +1,2 @@
 # SimpleNLG
-SompleNLG try outs
+SimpleNLG try outs
